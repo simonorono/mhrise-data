@@ -1,5 +1,7 @@
 Recovery Up,1,Ice Attack,2,4,0,0
 Reload Speed,3,Recoil Down,1,2,1,0
 Spare Shot,2,Recovery Up,2,1,0,0
+Steadiness,3,Divine Blessing,1,1,1,0
 Tremor Resistance,2,Steadiness,1,2,2,0
+Weakness Exploit,1,,0,1,1,0
 Wirebug Whisperer,3,Carving Pro,1,3,0,0
